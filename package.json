@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/molmos14/molmos14.github.io/issues"
   },
-  "homepage": "https://github.com/molmos14/molmos14.github.io#readme",
+  "homepage": "https://molmos14.github.io/",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
