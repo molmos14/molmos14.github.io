@@ -26,6 +26,7 @@ body {
 
 main {
   padding: 2rem;
+  padding-bottom: 4rem; /* Prevent overlap with the fixed footer */
 }
 
 section {
